@@ -1,5 +1,3 @@
-pip install -r requirements.txt
-
 import streamlit as st
 import langchain_helper as lh
 
